@@ -1,0 +1,11 @@
+.Navigation{
+    font-size: var(--nav-font-size);
+font-weight: var(--nav-font-weight);
+}
+.Navigation .Navigation_ProfileImage{
+    border-radius: 50%;
+}
+
+.Navigation .dropdown-menu{
+    background-color: rgba(var(--bs-primary-rgb),var(--bs-bg-opacity))!important;
+}

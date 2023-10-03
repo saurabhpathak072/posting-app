@@ -1,0 +1,14 @@
+.Carousel-image{
+    min-height: 300px;
+}
+
+.carosel_caption{
+    bottom: 50 !important;
+
+}
+
+@media screen and (min-width: 800px) {
+    .Carousel-image{
+        min-height: 770px;
+    }
+}

@@ -1,0 +1,4 @@
+.Main{
+    background: var(--background-color);
+    min-height: 500px;
+}
